@@ -1,0 +1,19 @@
+.container {
+    position: static;
+    text-align: center;
+    color: rgb(28, 169, 212);
+    float: right;
+  }
+  
+  #mid {
+    position: absolute;
+    top: 65%;
+    left: 65%;
+    border-style: dotted;
+  }
+  
+  #uw {
+    margin: 30px;
+    border-radius: 35px;
+    opacity: 0.6;
+  }
